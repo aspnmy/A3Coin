@@ -1,31 +1,36 @@
-**a3coin (MNT)**
+About the A3coin:
 
-a3coin is an innovative, secure and energy efficient PoW/PoS coin. It uses a faster PoW distribution mechanism to distribute the initial coins, then after 5 weeks the coin is basically transferred to a pure PoS coin, where the generation of the coin is mainly through the PoS interests.
+This is a real value crypto currency, and it is for everyone.
+A3 means anyone anytime and anywhere. A3coin will be launched soon with the bitcoin enthusiasts' joint effort .
 
-a3coin also adopt a variable PoS rate, which gives the highest payout at 20% the first year, then decrease 5% per year until the 4th year it reaches annual interest rate of 5%, then it will remain at this rate.
+Our objective:
 
-Because after 5 weeks it is basically a pure PoS coin, it does not need to be intensively mined, as the PoW payout will remain the minimum. Most coins will be generated through PoS, thus it is a coin that will save a lot of energy compared to other coins.
+Everyone can share the coin, anytime and everywhere.
+backed by a strong, diverse and committed community.
+maintain the prosperity and financial freedom of the world.
 
-a3coin will have a total of 70 billion coins. Initially each block will deliver 100000 to 900000 coins randomly. The PoW payout will be halved each week (7 days). After 5 weeks, the PoW payout will be fixed at 1 coin per block.
+Launch Date: April 27, 2014, 06:03 UTC.
+A brand new proof-of-stake crypto currency!
+Now, this is the time!
 
-PoS will start after at least 20 days of holding of the coins in the wallet. With PoS, the coin is more resilient to 51% attack. 
+Spanish Announcement: https://bitcointalk.org/index.php?topic=588078.0
+Chinese Announcement: https://bitcointalk.org/index.php?topic=587356.0
+Korean Announcement: https://bitcointalk.org/index.php?topic=589297.0
 
-**Other Specifications:**
+Link for the Result of Logo: https://bitcointalk.org/index.php?topic=586924.msg6457572#msg6457572
 
-- 30 seconds block target
-- 100000 - 900000 coins per block initially
-- PoW payout will be halved every week for the first 5 weeks
-- ~~After 5 weeks, the PoW payout will be fixed at 1 coin per block~~ PoW completely remvoed from block 220000
-- Difficulty retargets every block 
-- PoS variable interests:
-	- 1st year: 20%
-	- 2nd year: 15%
-	- 3rd year: 10%
-	- 4th and subsequent years: 5%
-- Total coins will be 70 billions
-- 4 confirmations for transaction, thus fast 2 mins confirmation for transdactions
-- 50 confirmations for minted blocks
-- 1% premine for bounties, giveaways, development, support and maintenance, new feature developments etc.
-
-- Ports: 7155 (connection) and 7154 (RPC)
-
+Coin Parameters:
+Algorithm: 100% pure proof-of-stake
+Total: 111'000'000 A3C
+Block times: 60seconds
+Mined Block Confirmation: 60
+Transaction Confirmation: 4
+Port: 7133
+Rpc port: 7132
+Premine: 1.5% for Dev support, marketing rewards
+Block Rewards: 1st year nominal stake interest :50%
+     2nd year nominal stake interest :30%
+     3rd year nominal stake interest :20%
+     4th year nominal stake interest :15%
+     5-10 year nominal stake interest :5% per year
+     10 years onward nominal stake interest:3% per year

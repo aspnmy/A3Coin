@@ -20,20 +20,33 @@ Korean Announcement: https://bitcointalk.org/index.php?topic=589297.0
 Link for the Result of Logo: https://bitcointalk.org/index.php?topic=586924.msg6457572#msg6457572
 
 Coin Parameters:Algorithm: 100% pure proof-of-stake
+
 Total: 111'000'000 A3C
+
 Block times: 60seconds
+
 Mined Block Confirmation: 60
+
 Transaction Confirmation: 4
-Port: 7133
-Rpc port: 7132
+
+Port: 7133 Rpc port: 7132
+
 Premine: 1.5% for Dev support, marketing rewards
+
 Block Rewards: 
-     1st year nominal stake interest :50%
-     2nd year nominal stake interest :30%
-     3rd year nominal stake interest :20%
-     4th year nominal stake interest :15%
-     5-10 year nominal stake interest :5% per year
-     10 years onward nominal stake interest:3% per year
+
+1st year nominal stake interest :50%
+
+2nd year nominal stake interest :30%
+
+3rd year nominal stake interest :20%
+
+4th year nominal stake interest :15%
+
+5-10 year nominal stake interest :5% per year
+
+10 years onward nominal stake interest:3% per year
+
      
 
      

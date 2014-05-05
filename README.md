@@ -37,15 +37,12 @@ Rpc port: 7132
 
 Premine: 1.5% for Dev support, marketing rewards
 
-Block Rewards: 1st year nominal stake interest :50%
-
+Block Rewards: 
+     1st year nominal stake interest :50%
      2nd year nominal stake interest :30%
-     
      3rd year nominal stake interest :20%
-     
      4th year nominal stake interest :15%
-     
      5-10 year nominal stake interest :5% per year
-     
      10 years onward nominal stake interest:3% per year
+     
      

@@ -1,0 +1,11 @@
+[Protocol]
+exec=a3coin-qt '%u'
+protocol=a3coin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

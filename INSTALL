@@ -1,0 +1,9 @@
+Building a3coin
+
+See doc/readme-qt.rst for instructions on building a3coin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of a3coin.
+
+See doc/build-*.txt for instructions on building a3coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of a3coin.

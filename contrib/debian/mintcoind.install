@@ -1,0 +1,2 @@
+debian/bin/a3coind usr/bin
+src/a3coind usr/lib/a3coin

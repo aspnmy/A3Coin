@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=a3coin
+Comment=a3coin P2P Cryptocurrency
+Comment[fr]=a3coin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=a3coin, eşten eşe kriptografik sanal para birimi
+Comment[es]=a3coin, una criptomoneda P2P
+Exec=/usr/bin/a3coin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/a3coin;
+Categories=Office;

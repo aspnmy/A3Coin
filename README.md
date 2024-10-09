@@ -1,3 +1,15 @@
+2024-10-10
+特别说明:A3coin 创始团队除了第一次2014年空投外，后续没有正式运营过此链。
+
+现在，我们将于2024年开始重启此链，将有大量应用场景使用并指出A3Coin.2014年参加过A3空投的爱好者，请找出钱包，准备替换新链，原始项目组唯一联系方式就在此处。
+
+
+Special note: Except for the first airdrop in 2014, the founding team of A3coin has not officially operated this chain in the future.
+
+Now, we will start restarting this chain in 2024, there will be a large number of use cases and point out A3Coin.Enthusiasts who participated in the A3 airdrop in 2014, please find the wallet and prepare to replace the new chain, the only contact information of the original project team is here.
+
+
+2014-05-06
 About the A3coin:
 
 This is a real value crypto currency, and it is for everyone.
